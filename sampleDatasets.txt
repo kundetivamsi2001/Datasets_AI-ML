@@ -1,0 +1,41 @@
+1.sample products Dataset for Dataframe creation
+
+data = {
+    'ID': ['101', '102', '103', '104'],  # Should be int
+    'Price': ['$1,000', '$2,500', '$3,750', '$4,100'],  # Should be float
+    'Date': ['2024-01-01', '2024-02-15', '2024-03-20', '2024-04-10'],  # Should be datetime
+    'Category': ['fashion', 'Furniture', 'Decor', 'Electricals']  # Should remain as object (string)
+}
+
+2.Sample Dataset 2 for concatenation example
+
+ df1 = pd.DataFrame({'ID': [1, 2,3,4,5], 'Name': ['Ali', 'Bobby','Ramesh','sakshi','sahil'], 'Age': [25, 30,23,20,24]})
+df2 = pd.DataFrame({'ID': [5, 6,7,8], 'Name': ['Cherry', 'Mahesh','Preethi','Santosh'], 'Age': [35, 30,26,28]})
+
+df3 = pd.DataFrame({'City': ['HYD', 'BEN','VIJ','CHE'], 'Salary': [50000, 60000,70000,34000]})
+
+3. Create a sample  Employee dataset for data cleaning example
+data = {
+    "ID": [1, 2, 2, 3, 4, 5, 6, 7, 8, 9],
+    "Name": ["Amit", "Priya", "Priya", "Rahul", "Sneha", "Vikram", "Raj", "Ananya", "Kiran", "Neha"],
+    "Age": [25, 30, 30, 34, -5, 40, 35, 29, 150, 28],
+    "Salary (INR)": [500000, 540000, 540000, 620000, 720000, np.nan, 800000, 920000, 1030000, 1140000],
+    "City": ["Mumbai", "Delhi", "Delhi", "Bangalore", "Chennai", "Chennai", "Kolkata", "Pune", "Hyderabad", "Ahmedabad"],
+    "Joining Date": ["2022-01-15", "2021-08-20", "2021-08-20", "2020-06-30", "2019-11-25", "2018-03-14", "2017-09-10", "2016-07-04", "2015-05-21", "2014-12-11"],
+    "Department": ["HR", "Finance", "Finance", "IT", "HR", "HR", "IT", "Finance", "IT", "HR"]
+}
+
+4. # lets create new sample data Sample Data for simple imputation example
+Sample = pd.DataFrame({
+    "Age": [25, 30, np.nan, 40, 35],
+    "Salary": [50000, np.nan, 60000, 65000, np.nan],
+    "City": ["Delhi", "Mumbai", np.nan, "Chennai", "Delhi"]
+})
+
+
+4. Sample real-world-like dataset (House Prices) for outlier example
+data = {
+    "Price": [250000, 270000, 275000, 300000, 500000, 260000, 290000, 310000, 1000000, 270000, 320000, 340000, 255000, 6000000],  # Outliers: 1000000, 6000000
+    "Size_sqft": [1500, 1600, 1700, 1800, 2200, 1550, 1650, 1750, 5000, 1580, 1850, 1900, 1520, 7000],  # Outliers: 5000, 7000
+    "Bedrooms": [3, 3, 3, 4, 5, 13, 3, 4, 10, 3, 4, 4, 3, 12]  
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "OrderID": 1001,
+    "CustomerName": "Rajesh Sharma",
+    "ProductName": "Smartphone",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "UnitPrice": 20000,
+    "TotalPrice": 20000,
+    "OrderDate": "2023-10-01",
+    "City": "Mumbai",
+    "PaymentMethod": "Credit Card",
+    "Status": "Delivered"
+  },
+  {
+    "OrderID": 1002,
+    "CustomerName": "Priya Mehra",
+    "ProductName": "Laptop",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "UnitPrice": 45000,
+    "TotalPrice": 45000,
+    "OrderDate": "2023-10-05",
+    "City": "Delhi",
+    "PaymentMethod": "UPI",
+    "Status": "Pending"
+  },
+  {
+    "OrderID": 1003,
+    "CustomerName": "Amit Trivedi",
+    "ProductName": "Office Chair",
+    "Category": "Furniture",
+    "Quantity": 2,
+    "UnitPrice": 3000,
+    "TotalPrice": 6000,
+    "OrderDate": "2023-10-08",
+    "City": "Bengaluru",
+    "PaymentMethod": "Cash",
+    "Status": "Delivered"
+  },
+  {
+    "OrderID": 1004,
+    "CustomerName": "Sneha Iyer",
+    "ProductName": "Running Shoes",
+    "Category": "Sports",
+    "Quantity": 1,
+    "UnitPrice": 3500,
+    "TotalPrice": 3500,
+    "OrderDate": "2023-10-10",
+    "City": "Chennai",
+    "PaymentMethod": "UPI",
+    "Status": "Delivered"
+  },
+  {
+    "OrderID": 1005,
+    "CustomerName": "Deepak Joshi",
+    "ProductName": "Refrigerator",
+    "Category": "Appliances",
+    "Quantity": 1,
+    "UnitPrice": 18000,
+    "TotalPrice": 18000,
+    "OrderDate": "2023-10-12",
+    "City": "Pune",
+    "PaymentMethod": "Credit Card",
+    "Status": "Cancelled"
+  },
+  {
+    "OrderID": 1006,
+    "CustomerName": "Neha Kapoor",
+    "ProductName": "Dining Table",
+    "Category": "Furniture",
+    "Quantity": 1,
+    "UnitPrice": 15000,
+    "TotalPrice": 15000,
+    "OrderDate": "2023-10-15",
+    "City": "Hyderabad",
+    "PaymentMethod": "Cash",
+    "Status": "Delivered"
+  },
+  {
+    "OrderID": 1007,
+    "CustomerName": "Ravi Kumar",
+    "ProductName": "Air Conditioner",
+    "Category": "Appliances",
+    "Quantity": 1,
+    "UnitPrice": 35000,
+    "TotalPrice": 35000,
+    "OrderDate": "2023-10-18",
+    "City": "Kolkata",
+    "PaymentMethod": "Credit Card",
+    "Status": "Pending"
+  }
+]
