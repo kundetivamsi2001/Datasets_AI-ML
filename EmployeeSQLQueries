@@ -1,0 +1,61 @@
+CREATE DATABASE sits;
+USE sits;
+
+CREATE TABLE employees (
+    Employee_ID INT PRIMARY KEY,
+    Name VARCHAR(100),
+    Department VARCHAR(50),
+    Salary DECIMAL(10,2),
+    Bonus DECIMAL(10,2),
+    Join_Date DATE,
+    Location VARCHAR(50),
+    Performance_Score INT,
+    Manager_ID INT,
+    Status VARCHAR(20)
+);
+
+INSERT INTO employees VALUES
+(1, 'Alice Johnson', 'Sales', 60000, 3000, '2019-05-10', 'New York', 8, 101, 'Active'),
+(2, 'Bob Smith', 'HR', 45000, 0, '2021-03-15', 'Chicago', 7, NULL, 'Active'),
+(3, 'Andrew Wilson', 'Marketing', 70000, 4000, '2018-07-20', 'New York', 9, 102, 'Active'),
+(4, 'David Brown', 'Finance', 80000, 5000, '2017-01-25', 'Chicago', 6, 103, 'Inactive'),
+(5, 'Emma Watson', 'IT', 90000, NULL, '2022-06-12', 'San Francisco', 10, 104, 'Active'),
+(6, 'Jason Roy', 'Sales', 55000, 2000, '2020-11-30', 'New York', 8, 101, 'Active'),
+(7, 'Mason Lee', 'HR', 48000, 1500, '2019-09-18', 'Chicago', 7, NULL, 'Active'),
+(8, 'Sophia Davis', 'Marketing', 72000, 3500, '2018-04-22', 'New York', 9, 102, 'Active'),
+(9, 'Liam Miller', 'Finance', 82000, 4500, '2016-12-05', 'Chicago', 8, 103, 'Active'),
+(10, 'Noah Wilson', 'IT', 95000, 5000, '2021-08-19', 'San Francisco', 10, 104, 'Active'),
+
+-- More variety
+(11, 'Ava Anderson', 'Sales', 62000, 2500, '2019-03-11', 'New York', 9, 101, 'Active'),
+(12, 'Ethan Thomas', 'HR', 47000, 1200, '2020-01-01', 'Chicago', 6, NULL, 'Inactive'),
+(13, 'Logan Jackson', 'Marketing', 68000, 3000, '2018-10-10', 'Boston', 9, 102, 'Active'),
+(14, 'Lucas White', 'Finance', 83000, 4000, '2017-07-07', 'Chicago', 7, 103, 'Active'),
+(15, 'Mia Harris', 'IT', 92000, 2000, '2022-01-15', 'San Francisco', 10, 104, 'Active'),
+
+-- Names with 'son'
+(16, 'Jackson Lee', 'Sales', 58000, 1000, '2019-12-12', 'New York', 8, 101, 'Active'),
+(17, 'Madison Clark', 'Marketing', 71000, 2800, '2018-05-05', 'Boston', 9, 102, 'Active'),
+
+-- Departments ending with 'ing'
+(18, 'Henry King', 'Accounting', 75000, 3500, '2019-06-06', 'Chicago', 7, 103, 'Active'),
+(19, 'Isabella Scott', 'Engineering', 88000, 4500, '2020-08-08', 'San Francisco', 10, 104, 'Active'),
+
+-- Edge cases
+(20, 'Aiden Young', 'Sales', 61000, 0, '2021-02-02', 'New York', 8, 101, 'Active'),
+(21, 'Aria Hall', 'HR', 49000, NULL, '2019-11-11', 'Chicago', 6, NULL, 'Active'),
+
+-- More locations
+(22, 'Daniel Allen', 'Finance', 81000, 4200, '2016-03-03', 'Dallas', 7, 103, 'Active'),
+(23, 'Matthew Wright', 'IT', 97000, 4800, '2021-09-09', 'Seattle', 10, 104, 'Active'),
+
+-- Performance >=9
+(24, 'Amelia Green', 'Marketing', 73000, 3600, '2018-02-02', 'Boston', 9, 102, 'Active'),
+(25, 'Benjamin Adams', 'Sales', 64000, 2200, '2020-10-10', 'New York', 9, 101, 'Active'),
+
+-- More diversity
+(26, 'Charlotte Baker', 'Finance', 84000, 4100, '2017-04-04', 'Chicago', 8, 103, 'Inactive'),
+(27, 'Elijah Nelson', 'IT', 96000, 4900, '2022-03-03', 'San Francisco', 10, 104, 'Active'),
+(28, 'Abigail Carter', 'HR', 50000, 1300, '2019-07-07', 'Chicago', 7, NULL, 'Active'),
+(29, 'James Mitchell', 'Sales', 67000, 2700, '2020-06-06', 'New York', 8, 101, 'Active'),
+(30, 'Alexander Perez', 'Marketing', 74000, 3300, '2018-09-09', 'Boston', 9, 102, 'Active');
