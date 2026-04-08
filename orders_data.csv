@@ -1,0 +1,106 @@
+OrderID,CustomerName,ProductName,Category,Quantity,UnitPrice,OrderDate,City,PaymentMethod,Status,TotalPrice
+ORD00001,Pari Ahluwalia,Refrigerator,Furniture,1,13798,2024-03-02,Hazaribagh,Cash,Pending,13798
+ORD00002,Ehsaan Deshpande,Refrigerator,Furniture,1,32729,2024-02-29,Katni,Cash,Cancelled,32729
+ORD00003,Vardaniya Jayaraman,Refrigerator,Furniture,1,18474,2023-12-13,Anantapuram,Cash,Pending,18474
+ORD00004,Nirvi Mandal,Refrigerator,Furniture,4,40655,2024-07-23,Agartala,Credit Card,Cancelled,162620
+ORD00005,Dhruv Mani,Laptop,Electronics,4,16704,2024-03-03,Rewa,UPI,Pending,66816
+ORD00006,Aarav Tailor,Smartphone,Furniture,8,45813,2024-10-16,Jalna,Cash,Cancelled,366504
+ORD00007,Hiran Mann,Washing Machine,Electronics,3,39483,2024-04-08,Jodhpur,UPI,Delivered,118449
+ORD00008,Riya Lanka,TV,Electronics,3,8865,2023-12-31,Pali,UPI,Cancelled,26595
+ORD00009,Aarav Kota,Smartphone,Electronics,5,9687,2024-07-23,Gurgaon,UPI,Pending,48435
+ORD00010,Ranbir Venkataraman,Smartphone,Appliances,3,34967,2024-08-14,Visakhapatnam,Cash,Pending,104901
+ORD00011,Gatik Comar,Air Conditioner,Electronics,5,14857,2024-04-27,Ongole,UPI,Pending,74285
+ORD00012,Ivan Rajagopal,Air Conditioner,Furniture,6,48069,2024-02-10,Shimla,Credit Card,Pending,288414
+ORD00013,Zaina Kade,Smartphone,Furniture,10,28913,2024-06-05,Vijayanagaram,Credit Card,Delivered,289130
+ORD00014,Pihu Bedi,Laptop,Furniture,5,33078,2024-04-07,Cuttack,Credit Card,Cancelled,165390
+ORD00015,Trisha Kadakia,Air Conditioner,Appliances,4,6504,2024-09-13,Visakhapatnam,Cash,Delivered,26016
+ORD00016,Sara Dara,Washing Machine,Appliances,9,13938,2024-09-17,Tadepalligudem,UPI,Cancelled,125442
+ORD00017,Divit Maharaj,Headphones,Appliances,9,45190,2024-07-22,Vijayanagaram,UPI,Pending,406710
+ORD00018,Arhaan Saran,Air Conditioner,Electronics,8,24682,2024-10-23,Ozhukarai,Cash,Cancelled,197456
+ORD00019,Gatik Ghose,Air Conditioner,Electronics,8,15595,2024-06-15,Bharatpur,Cash,Delivered,124760
+ORD00020,Lagan Wable,Smartphone,Electronics,1,4845,2024-06-10,Howrah,Cash,Delivered,4845
+ORD00021,Pari Sachar,Laptop,Appliances,8,12830,2024-02-24,Rampur,UPI,Delivered,102640
+ORD00022,Shalv Bawa,Refrigerator,Electronics,10,35022,2024-11-02,Gwalior,Cash,Pending,350220
+ORD00023,Jivin Jain,Headphones,Appliances,10,3681,2024-04-21,,Cash,Cancelled,36810
+ORD00024,Neelofar Srinivasan,Air Conditioner,Appliances,6,18279,2024-06-01,Thane,Credit Card,Pending,109674
+ORD00025,Zeeshan Savant,Air Conditioner,Appliances,9,27936,2024-01-11,Aligarh,Credit Card,Delivered,251424
+ORD00026,Tushar Shanker,Refrigerator,Electronics,6,1807,2024-03-01,Hajipur,UPI,Pending,10842
+ORD00027,Nayantara Sunder,Laptop,Appliances,7,6033,2024-10-13,Bhavnagar,Cash,Pending,42231
+ORD00028,Misha Walla,Air Conditioner,Appliances,6,17081,2024-05-03,Madurai,Cash,Delivered,102486
+ORD00029,Kartik Shroff,Air Conditioner,Electronics,7,28647,2024-10-12,Srikakulam,Cash,Cancelled,200529
+ORD00030,Anahi Bandi,Smartphone,Electronics,6,31855,2024-08-05,Hubli–Dharwad,UPI,Pending,191130
+ORD00031,Nayantara Gole,Laptop,Furniture,8,32236,2024-09-11,Miryalaguda,Cash,Cancelled,257888
+ORD00032,Mahika Goswami,Air Conditioner,Appliances,2,37996,2024-08-29,Rohtak,UPI,Cancelled,75992
+ORD00033,Hansh Dhar,Air Conditioner,Furniture,6,21144,2024-10-12,Bardhaman,Credit Card,Pending,126864
+ORD00034,Divyansh Singhal,Washing Machine,Electronics,4,48623,2024-08-15,Meerut,Cash,Delivered,194492
+ORD00035,Ivan Sibal,Refrigerator,Furniture,8,25309,2024-09-01,Rohtak,Cash,Delivered,202472
+ORD00036,Urvi Gole,Refrigerator,Furniture,7,19296,2024-11-09,Mira-Bhayandar,Cash,Cancelled,135072
+ORD00037,Lakshit Agarwal,Smartphone,Furniture,10,9470,2024-08-18,Dindigul,Cash,Cancelled,94700
+ORD00038,Tara Kanda,Air Conditioner,Appliances,5,9833,2024-08-25,Chandigarh,Cash,Cancelled,49165
+ORD00039,Taran Sandal,Air Conditioner,Furniture,8,35080,2024-04-11,Ambala,Credit Card,Delivered,280640
+ORD00040,Ehsaan Jaggi,Refrigerator,Furniture,1,29374,2024-03-10,Uluberia,Credit Card,Pending,29374
+ORD00041,Khushi Sathe,Air Conditioner,Furniture,6,4234,2024-11-23,Sambalpur,Credit Card,Cancelled,25404
+ORD00042,Piya Goel,Air Conditioner,Electronics,3,34988,2024-11-08,Kharagpur,UPI,Cancelled,104964
+ORD00043,Kiaan Comar,Headphones,Appliances,1,4435,2024-09-10,Kirari Suleman Nagar,UPI,Delivered,4435
+ORD00044,Drishya Dube,TV,Appliances,5,30288,2024-02-01,Unnao,Credit Card,Delivered,151440
+ORD00045,Divit Shankar,TV,Furniture,5,7312,2024-02-02,Faridabad,Credit Card,Delivered,36560
+ORD00046,Heer Mangat,Headphones,Appliances,4,28212,2024-11-07,Bhind,Credit Card,Pending,112848
+ORD00047,Nayantara Walia,Smartphone,Electronics,6,41840,2024-05-12,Latur,UPI,Cancelled,251040
+ORD00048,Anaya Rajagopal,Air Conditioner,Furniture,4,46925,2024-03-22,Srinagar,Credit Card,Pending,187700
+ORD00049,Shanaya Anne,Smartphone,Appliances,3,16836,2024-05-03,Patiala,Credit Card,Cancelled,50508
+ORD00050,Tara Basak,Washing Machine,Furniture,5,36618,2024-08-21,Kolkata,Credit Card,Pending,183090
+ORD00051,Kanav Ramaswamy,Laptop,Electronics,3,49616,2024-01-30,Dhanbad,UPI,Pending,148848
+ORD00052,Indrans Dhaliwal,Laptop,Furniture,3,34787,2024-11-23,Secunderabad,Cash,Pending,104361
+ORD00053,Vanya Som,TV,Appliances,10,8070,2024-04-29,Patiala,Cash,Delivered,80700
+ORD00054,Trisha Warrior,Air Conditioner,Electronics,1,18795,2024-08-30,Patna,UPI,Cancelled,18795
+ORD00055,Lakshay Bera,Refrigerator,Appliances,3,15117,2024-09-18,Indore,Credit Card,Pending,45351
+ORD00056,Ritvik Contractor,TV,Electronics,8,19144,2024-09-11,Pudukkottai,Credit Card,Cancelled,153152
+ORD00057,Tushar Krishnan,Air Conditioner,Furniture,8,11613,2024-05-05,Ramagundam,UPI,Cancelled,92904
+ORD00058,Kaira Barman,Headphones,Furniture,3,1982,2024-07-06,Imphal,Credit Card,Cancelled,5946
+ORD00059,Amira Kannan,Headphones,Electronics,4,44247,2024-11-18,Ulhasnagar,Cash,Pending,176988
+ORD00060,Emir Chand,Air Conditioner,Appliances,7,21590,2024-10-17,Vadodara,Credit Card,Delivered,151130
+ORD00061,Arhaan Tella,Air Conditioner,Electronics,10,13753,2024-08-10,Thanjavur,UPI,Pending,137530
+ORD00062,Tarini Dhingra,Refrigerator,Appliances,2,14159,2024-06-20,,UPI,Cancelled,28318
+ORD00063,Nayantara Mammen,Headphones,Furniture,9,14677,2024-02-03,Kochi,UPI,Pending,132093
+ORD00064,Ehsaan Aggarwal,Refrigerator,Furniture,6,28114,2024-08-19,Uluberia,Credit Card,Cancelled,168684
+ORD00065,Lakshay Rajagopal,TV,Electronics,7,33156,2023-12-16,Serampore,Cash,Pending,232092
+ORD00066,Adah Anand,Washing Machine,Appliances,8,9305,2024-09-15,Latur,UPI,Pending,74440
+ORD00067,Anvi Barad,Smartphone,Appliances,3,41167,2024-10-01,Unnao,UPI,Delivered,123501
+ORD00068,Aradhya Vohra,Laptop,Electronics,3,32133,2024-02-25,Nagaon,Cash,Delivered,96399
+ORD00069,Dhanush Sarraf,Washing Machine,Appliances,5,48967,2024-11-07,Nagaon,UPI,Pending,244835
+ORD00070,Ehsaan Gola,Smartphone,Appliances,1,10132,2024-02-09,Kakinada,UPI,Cancelled,10132
+ORD00071,Parinaaz Dani,Air Conditioner,Electronics,9,32050,2024-09-16,Karaikudi,UPI,Cancelled,288450
+ORD00072,Piya Suri,Headphones,Appliances,10,28045,2024-01-05,Cuttack,Credit Card,Cancelled,280450
+ORD00073,Jayesh Dugal,Refrigerator,Furniture,4,7787,2024-09-20,Bally,Credit Card,Delivered,31148
+ORD00074,Charvi Chakraborty,Laptop,Electronics,10,44395,2024-06-25,Kumbakonam,UPI,Pending,443950
+ORD00075,Yakshit Kapur,Air Conditioner,Electronics,7,8851,2024-05-18,Raurkela Industrial Township,Credit Card,Cancelled,61957
+ORD00076,Himmat Sant,Washing Machine,Appliances,2,46824,2024-01-30,Howrah,Cash,Pending,93648
+ORD00077,Tara Ranganathan,TV,Appliances,7,21823,2023-12-15,Hindupur,Cash,Cancelled,152761
+ORD00078,Miraya Choudhry,Smartphone,Furniture,2,49796,2024-03-06,South Dumdum,UPI,Pending,99592
+ORD00079,Divit Devan,Headphones,Furniture,5,4476,2024-09-10,Kota,Cash,Cancelled,22380
+ORD00080,Kashvi Andra,Air Conditioner,Electronics,3,23561,2024-05-17,Mysore,Credit Card,Pending,70683
+ORD00081,Ojas Vig,Headphones,Furniture,5,31048,2024-01-14,Haldia,Credit Card,Pending,155240
+ORD00082,Darshit Gokhale,Air Conditioner,Appliances,1,39361,2023-12-16,Indore,UPI,Pending,39361
+ORD00083,Samar Deo,Washing Machine,Furniture,9,20922,2024-10-04,Hajipur,UPI,Pending,188298
+ORD00084,Mohanlal Virk,Washing Machine,Appliances,2,26959,2024-06-04,Belgaum,UPI,Cancelled,53918
+ORD00085,Indrans Khare,Laptop,Appliances,4,6285,2024-08-03,Bangalore,Cash,Cancelled,25140
+ORD00086,Aradhya Bhalla,Refrigerator,Appliances,2,28340,2024-04-22,,UPI,Pending,56680
+ORD00087,Jivin Master,Laptop,Electronics,6,11308,2024-09-03,Muzaffarpur,Credit Card,Pending,67848
+ORD00088,Manikya Sha,TV,Appliances,4,4405,2023-12-10,,Cash,Pending,17620
+ORD00089,Siya Garg,Washing Machine,Appliances,7,20805,2024-06-09,Sangli-Miraj & Kupwad,Credit Card,Cancelled,145635
+ORD00090,Aarav Tak,Air Conditioner,Appliances,6,23234,2024-08-16,Thiruvananthapuram,Credit Card,Delivered,139404
+ORD00091,Shamik Kothari,TV,Furniture,5,42588,2024-02-09,Pondicherry,Cash,Pending,212940
+ORD00092,Vihaan Sen,Air Conditioner,Electronics,4,49181,2024-10-16,Sangli-Miraj & Kupwad,Cash,Pending,196724
+ORD00093,Keya Garde,Washing Machine,Furniture,9,1285,2024-07-15,Berhampore,Credit Card,Pending,11565
+ORD00094,Jayant Datta,Laptop,Furniture,1,5668,2024-05-04,Farrukhabad,UPI,Pending,5668
+ORD00095,Tanya Deol,Refrigerator,Furniture,2,3320,2024-05-29,Kota,Credit Card,Cancelled,6640
+ORD00096,Rohan Ben,Refrigerator,Furniture,8,49053,2023-12-30,,Cash,Cancelled,392424
+ORD00097,Stuvan Luthra,Refrigerator,Furniture,3,29023,2024-04-23,Hazaribagh,UPI,Cancelled,87069
+ORD00098,Saksham Ram,TV,Appliances,4,17221,2024-05-11,Bhatpara,Cash,Cancelled,68884
+ORD00099,Gatik Vyas,Washing Machine,Furniture,8,10315,2024-06-13,Arrah,Cash,Pending,82520
+ORD00100,Vivaan Warrior,Smartphone,Electronics,6,45793,2024-02-26,Rohtak,Cash,Delivered,274758
+ORD00055,Lakshay Bera,Refrigerator,Appliances,3,15117,2024-09-18,Indore,Credit Card,Pending,45351
+ORD00041,Khushi Sathe,Air Conditioner,Furniture,6,4234,2024-11-23,Sambalpur,Credit Card,Cancelled,25404
+ORD00009,Aarav Kota,Smartphone,Electronics,5,9687,2024-07-23,Gurgaon,UPI,Pending,48435
+ORD00080,Kashvi Andra,Air Conditioner,Electronics,3,23561,2024-05-17,Mysore,Credit Card,Pending,70683
+ORD00034,Divyansh Singhal,Washing Machine,Electronics,4,48623,2024-08-15,Meerut,Cash,Delivered,194492

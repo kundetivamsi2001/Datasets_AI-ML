@@ -1,0 +1,802 @@
+[
+  {
+    "EmployeeID": 1,
+    "Name": "Lauren Smith",
+    "Department": "Support",
+    "Position": "Specialist",
+    "Salary": 95194.98,
+    "JoinDate": "22/12/2016"
+  },
+  {
+    "EmployeeID": 2,
+    "Name": "Robert Campbell  ",
+    "Department": "Finance",
+    "Position": "Manager",
+    "Salary": null,
+    "JoinDate": "2023/08/23"
+  },
+  {
+    "EmployeeID": 3,
+    "Name": "Taylor Hudson DVM  ",
+    "Department": "Sales",
+    "Position": "Engineer",
+    "Salary": 70175.47,
+    "JoinDate": "2017/07/26"
+  },
+  {
+    "EmployeeID": 4,
+    "Name": "  Zachary Miles  ",
+    "Department": "Sales",
+    "Position": "Specialist",
+    "Salary": "$47,177.59",
+    "JoinDate": "December 07, 2015"
+  },
+  {
+    "EmployeeID": 5,
+    "Name": "  Rachel Mcguire",
+    "Department": "Sales",
+    "Position": "Engineer",
+    "Salary": 110222.38,
+    "JoinDate": "June 27, 2022"
+  },
+  {
+    "EmployeeID": 6,
+    "Name": "James Pitts",
+    "Department": "Sales",
+    "Position": "Executive",
+    "Salary": 78686.57,
+    "JoinDate": "08-27-2016"
+  },
+  {
+    "EmployeeID": 7,
+    "Name": "Jackie Collins",
+    "Department": "Finance",
+    "Position": "Engineer",
+    "Salary": 66213.39,
+    "JoinDate": "02-27-2019"
+  },
+  {
+    "EmployeeID": 8,
+    "Name": "Kyle Williams",
+    "Department": "Finance",
+    "Position": "Engineer",
+    "Salary": "$119,339.74",
+    "JoinDate": "2021-09-06"
+  },
+  {
+    "EmployeeID": 9,
+    "Name": "Brittney Norris  ",
+    "Department": "IT",
+    "Position": "Executive",
+    "Salary": "$113,874.51",
+    "JoinDate": "2017-03-14"
+  },
+  {
+    "EmployeeID": 10,
+    "Name": "Nicole Wood  ",
+    "Department": "IT",
+    "Position": "Engineer",
+    "Salary": 87797.06,
+    "JoinDate": "31-Jul-2021"
+  },
+  {
+    "EmployeeID": 11,
+    "Name": "Nicholas Wright",
+    "Department": "IT",
+    "Position": "Analyst",
+    "Salary": 42465.25,
+    "JoinDate": "2017/04/12"
+  },
+  {
+    "EmployeeID": 12,
+    "Name": "Lisa Walsh  ",
+    "Department": "Marketing",
+    "Position": "Executive",
+    "Salary": "$53,617.81",
+    "JoinDate": "04-21-2018"
+  },
+  {
+    "EmployeeID": 13,
+    "Name": "Taylor Wood  ",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": "$95,662.54",
+    "JoinDate": "2017/11/24"
+  },
+  {
+    "EmployeeID": 14,
+    "Name": "  Casey Francis",
+    "Department": "Marketing",
+    "Position": "Engineer",
+    "Salary": 66044.71,
+    "JoinDate": "2015-12-03"
+  },
+  {
+    "EmployeeID": 15,
+    "Name": "  Amanda Murray",
+    "Department": "HR",
+    "Position": "Engineer",
+    "Salary": 51147.78,
+    "JoinDate": "2018/10/22"
+  },
+  {
+    "EmployeeID": 16,
+    "Name": "Craig Nelson  ",
+    "Department": "Marketing",
+    "Position": "Engineer",
+    "Salary": 66463.27,
+    "JoinDate": "2024-03-03"
+  },
+  {
+    "EmployeeID": 17,
+    "Name": "Tracey Ward  ",
+    "Department": "Sales",
+    "Position": "Analyst",
+    "Salary": "$118,653.69",
+    "JoinDate": "June 01, 2015"
+  },
+  {
+    "EmployeeID": 18,
+    "Name": "John Brown",
+    "Department": "IT",
+    "Position": "Executive",
+    "Salary": "$97,013.23",
+    "JoinDate": "2015/06/28"
+  },
+  {
+    "EmployeeID": 19,
+    "Name": "  Edward Hernandez",
+    "Department": "Finance",
+    "Position": "Analyst",
+    "Salary": "$101,600.65",
+    "JoinDate": "22/03/2017"
+  },
+  {
+    "EmployeeID": 20,
+    "Name": "  Danielle Hernandez  ",
+    "Department": "HR",
+    "Position": "Engineer",
+    "Salary": "$115,512.37",
+    "JoinDate": "07-01-2018"
+  },
+  {
+    "EmployeeID": 21,
+    "Name": "  Pamela Peterson",
+    "Department": "Sales",
+    "Position": "Analyst",
+    "Salary": "$63,416.06",
+    "JoinDate": "2017-06-26"
+  },
+  {
+    "EmployeeID": 22,
+    "Name": "Joshua Moran",
+    "Department": "Marketing",
+    "Position": "Analyst",
+    "Salary": 99389.0,
+    "JoinDate": "03-Feb-2024"
+  },
+  {
+    "EmployeeID": 23,
+    "Name": "  Felicia Moran",
+    "Department": "Marketing",
+    "Position": "Engineer",
+    "Salary": "$95,069.46",
+    "JoinDate": "01-10-2019"
+  },
+  {
+    "EmployeeID": 24,
+    "Name": "Mark King",
+    "Department": "IT",
+    "Position": "Analyst",
+    "Salary": 73373.37,
+    "JoinDate": "12-18-2022"
+  },
+  {
+    "EmployeeID": 25,
+    "Name": "Veronica Henry  ",
+    "Department": "Support",
+    "Position": "Manager",
+    "Salary": 115924.61,
+    "JoinDate": "22-Jul-2021"
+  },
+  {
+    "EmployeeID": 26,
+    "Name": "Tina Mccoy  ",
+    "Department": "Finance",
+    "Position": "Manager",
+    "Salary": "$87,489.76",
+    "JoinDate": "10-15-2016"
+  },
+  {
+    "EmployeeID": 27,
+    "Name": "Pamela Snyder PhD",
+    "Department": "Marketing",
+    "Position": "Manager",
+    "Salary": null,
+    "JoinDate": "November 14, 2016"
+  },
+  {
+    "EmployeeID": 28,
+    "Name": "Blake Smith DDS",
+    "Department": "Finance",
+    "Position": "Engineer",
+    "Salary": "$66,341.05",
+    "JoinDate": "2016-02-07"
+  },
+  {
+    "EmployeeID": 29,
+    "Name": null,
+    "Department": "Sales",
+    "Position": "Engineer",
+    "Salary": 62435.72,
+    "JoinDate": "04-Oct-2023"
+  },
+  {
+    "EmployeeID": 30,
+    "Name": "Ashley Kelly",
+    "Department": "HR",
+    "Position": "Analyst",
+    "Salary": 75910.61,
+    "JoinDate": "2023/06/20"
+  },
+  {
+    "EmployeeID": 31,
+    "Name": "Teresa Morse  ",
+    "Department": "Support",
+    "Position": "Engineer",
+    "Salary": 72568.77,
+    "JoinDate": "2022/01/18"
+  },
+  {
+    "EmployeeID": 32,
+    "Name": "Edward Odom",
+    "Department": "IT",
+    "Position": "Engineer",
+    "Salary": "$84,263.00",
+    "JoinDate": null
+  },
+  {
+    "EmployeeID": 33,
+    "Name": "Austin Gonzalez  ",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": 55975.69,
+    "JoinDate": "September 15, 2024"
+  },
+  {
+    "EmployeeID": 34,
+    "Name": "Alicia Ford  ",
+    "Department": "IT",
+    "Position": "Manager",
+    "Salary": 70649.88,
+    "JoinDate": "August 03, 2020"
+  },
+  {
+    "EmployeeID": 35,
+    "Name": "  Timothy Henderson  ",
+    "Department": "IT",
+    "Position": "Analyst",
+    "Salary": "$64,476.48",
+    "JoinDate": "2016/01/15"
+  },
+  {
+    "EmployeeID": 36,
+    "Name": "Jody Kelley",
+    "Department": "HR",
+    "Position": "Executive",
+    "Salary": 118482.25,
+    "JoinDate": "February 02, 2022"
+  },
+  {
+    "EmployeeID": 37,
+    "Name": "Tiffany Melton  ",
+    "Department": null,
+    "Position": "Specialist",
+    "Salary": 84092.42,
+    "JoinDate": "February 10, 2017"
+  },
+  {
+    "EmployeeID": 38,
+    "Name": "Paul Salinas",
+    "Department": "Finance",
+    "Position": "Analyst",
+    "Salary": 87029.08,
+    "JoinDate": "08-19-2024"
+  },
+  {
+    "EmployeeID": 39,
+    "Name": "Daniel Solis",
+    "Department": "Support",
+    "Position": "Engineer",
+    "Salary": 93422.53,
+    "JoinDate": "10-Jul-2022"
+  },
+  {
+    "EmployeeID": 40,
+    "Name": "  Michelle Bailey  ",
+    "Department": "HR",
+    "Position": "Specialist",
+    "Salary": 54180.41,
+    "JoinDate": "10-08-2021"
+  },
+  {
+    "EmployeeID": 41,
+    "Name": "Patricia Vaughn  ",
+    "Department": "Marketing",
+    "Position": "Executive",
+    "Salary": null,
+    "JoinDate": "2015/09/18"
+  },
+  {
+    "EmployeeID": 42,
+    "Name": "  Jeffrey Porter",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": 55784.03,
+    "JoinDate": "17/07/2015"
+  },
+  {
+    "EmployeeID": 43,
+    "Name": "Sharon Smith  ",
+    "Department": "Finance",
+    "Position": "Manager",
+    "Salary": 111391.4,
+    "JoinDate": "May 24, 2024"
+  },
+  {
+    "EmployeeID": 44,
+    "Name": "Peter Williams",
+    "Department": "HR",
+    "Position": "Executive",
+    "Salary": 66183.43,
+    "JoinDate": "01-Apr-2016"
+  },
+  {
+    "EmployeeID": 45,
+    "Name": "  Abigail Wall  ",
+    "Department": "Marketing",
+    "Position": "Manager",
+    "Salary": 105761.24,
+    "JoinDate": null
+  },
+  {
+    "EmployeeID": 46,
+    "Name": "  Michael Jones  ",
+    "Department": "Support",
+    "Position": "Executive",
+    "Salary": 90341.16,
+    "JoinDate": "2021/02/23"
+  },
+  {
+    "EmployeeID": 47,
+    "Name": "Mark Russell DVM",
+    "Department": "Marketing",
+    "Position": "Manager",
+    "Salary": 79295.36,
+    "JoinDate": "2020/09/07"
+  },
+  {
+    "EmployeeID": 48,
+    "Name": "Wendy Scott  ",
+    "Department": "Marketing",
+    "Position": "Analyst",
+    "Salary": 101426.53,
+    "JoinDate": "08-31-2015"
+  },
+  {
+    "EmployeeID": 49,
+    "Name": "  Matthew Harper",
+    "Department": "IT",
+    "Position": "Manager",
+    "Salary": "$91,632.06",
+    "JoinDate": "2020/01/04"
+  },
+  {
+    "EmployeeID": 50,
+    "Name": "  Mrs. Jennifer Martin DDS  ",
+    "Department": "HR",
+    "Position": "Specialist",
+    "Salary": 59891.09,
+    "JoinDate": "14-Jan-2025"
+  },
+  {
+    "EmployeeID": 51,
+    "Name": "Jennifer Livingston",
+    "Department": null,
+    "Position": "Analyst",
+    "Salary": "$54,469.66",
+    "JoinDate": "April 26, 2025"
+  },
+  {
+    "EmployeeID": 52,
+    "Name": "Alexis Herrera",
+    "Department": "Support",
+    "Position": "Analyst",
+    "Salary": "$97,879.29",
+    "JoinDate": "01/03/2019"
+  },
+  {
+    "EmployeeID": 53,
+    "Name": "Susan Cole",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": "$43,239.31",
+    "JoinDate": "August 17, 2019"
+  },
+  {
+    "EmployeeID": 54,
+    "Name": "Jasmine Walker",
+    "Department": "Support",
+    "Position": "Engineer",
+    "Salary": 56339.85,
+    "JoinDate": "2022-12-30"
+  },
+  {
+    "EmployeeID": 55,
+    "Name": "Laura Stewart  ",
+    "Department": "Support",
+    "Position": "Analyst",
+    "Salary": 109601.37,
+    "JoinDate": "2020-03-30"
+  },
+  {
+    "EmployeeID": 56,
+    "Name": "Kelly Rogers  ",
+    "Department": "Marketing",
+    "Position": "Engineer",
+    "Salary": "$72,042.28",
+    "JoinDate": "December 15, 2021"
+  },
+  {
+    "EmployeeID": 57,
+    "Name": "Jessica Ortiz",
+    "Department": "HR",
+    "Position": "Executive",
+    "Salary": "$110,433.32",
+    "JoinDate": "04-Dec-2019"
+  },
+  {
+    "EmployeeID": 58,
+    "Name": "Tina Melendez",
+    "Department": "Marketing",
+    "Position": "Engineer",
+    "Salary": 51869.84,
+    "JoinDate": "2020-05-17"
+  },
+  {
+    "EmployeeID": 59,
+    "Name": "Mary Johnson  ",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": "$116,119.38",
+    "JoinDate": "2018-06-19"
+  },
+  {
+    "EmployeeID": 60,
+    "Name": "  Karen Johnson",
+    "Department": "IT",
+    "Position": "Manager",
+    "Salary": 71010.27,
+    "JoinDate": "July 15, 2024"
+  },
+  {
+    "EmployeeID": 61,
+    "Name": "Tamara Allen",
+    "Department": "IT",
+    "Position": "Specialist",
+    "Salary": 96614.29,
+    "JoinDate": "14/01/2017"
+  },
+  {
+    "EmployeeID": 62,
+    "Name": "  Jeffrey Huynh",
+    "Department": null,
+    "Position": "Analyst",
+    "Salary": "$54,572.69",
+    "JoinDate": "2016/05/19"
+  },
+  {
+    "EmployeeID": 63,
+    "Name": "Mrs. Lauren Jones",
+    "Department": "Support",
+    "Position": "Manager",
+    "Salary": 97780.17,
+    "JoinDate": "May 11, 2017"
+  },
+  {
+    "EmployeeID": 64,
+    "Name": "  Dale Todd",
+    "Department": "HR",
+    "Position": "Engineer",
+    "Salary": "$80,801.66",
+    "JoinDate": "June 08, 2022"
+  },
+  {
+    "EmployeeID": 65,
+    "Name": "  John Mills",
+    "Department": "Sales",
+    "Position": "Specialist",
+    "Salary": 117016.84,
+    "JoinDate": "13/02/2021"
+  },
+  {
+    "EmployeeID": 66,
+    "Name": "  Brandon Lawson  ",
+    "Department": "HR",
+    "Position": "Manager",
+    "Salary": 116667.12,
+    "JoinDate": "December 27, 2015"
+  },
+  {
+    "EmployeeID": 67,
+    "Name": "  Charles Carr  ",
+    "Department": "HR",
+    "Position": "Engineer",
+    "Salary": "$78,503.06",
+    "JoinDate": "2019-11-11"
+  },
+  {
+    "EmployeeID": 68,
+    "Name": "  Danielle Wilkinson  ",
+    "Department": "Support",
+    "Position": "Specialist",
+    "Salary": "$69,884.26",
+    "JoinDate": "03-Feb-2019"
+  },
+  {
+    "EmployeeID": 69,
+    "Name": "Robert Allen",
+    "Department": "Sales",
+    "Position": "Analyst",
+    "Salary": 64877.62,
+    "JoinDate": "January 08, 2025"
+  },
+  {
+    "EmployeeID": 70,
+    "Name": "  Abigail Rice",
+    "Department": "Sales",
+    "Position": "Executive",
+    "Salary": "$109,446.19",
+    "JoinDate": "10-25-2021"
+  },
+  {
+    "EmployeeID": 71,
+    "Name": "  Erica Potter",
+    "Department": "HR",
+    "Position": "Analyst",
+    "Salary": 99755.62,
+    "JoinDate": "2023-11-20"
+  },
+  {
+    "EmployeeID": 72,
+    "Name": "  Bryan Cooper  ",
+    "Department": "Marketing",
+    "Position": "Executive",
+    "Salary": "$95,684.89",
+    "JoinDate": "04-08-2018"
+  },
+  {
+    "EmployeeID": 73,
+    "Name": "Jeffrey Frost",
+    "Department": "Finance",
+    "Position": "Manager",
+    "Salary": 79372.75,
+    "JoinDate": "2019-06-10"
+  },
+  {
+    "EmployeeID": 74,
+    "Name": "  Gina Powell",
+    "Department": "Finance",
+    "Position": "Executive",
+    "Salary": "$77,344.10",
+    "JoinDate": "12/11/2021"
+  },
+  {
+    "EmployeeID": 75,
+    "Name": "Thomas Thompson  ",
+    "Department": "Support",
+    "Position": "Manager",
+    "Salary": "$40,955.28",
+    "JoinDate": "12-10-2016"
+  },
+  {
+    "EmployeeID": 76,
+    "Name": "Jared Smith",
+    "Department": "IT",
+    "Position": "Analyst",
+    "Salary": "$96,503.78",
+    "JoinDate": "2022/09/18"
+  },
+  {
+    "EmployeeID": 77,
+    "Name": "Ruben Glover  ",
+    "Department": "Support",
+    "Position": "Analyst",
+    "Salary": 83520.32,
+    "JoinDate": "05-Sep-2023"
+  },
+  {
+    "EmployeeID": 78,
+    "Name": "Gina Brandt  ",
+    "Department": "Sales",
+    "Position": "Specialist",
+    "Salary": 95021.63,
+    "JoinDate": "2024-06-30"
+  },
+  {
+    "EmployeeID": 79,
+    "Name": "Kathy Marquez",
+    "Department": "Finance",
+    "Position": "Executive",
+    "Salary": 119159.5,
+    "JoinDate": "21/02/2021"
+  },
+  {
+    "EmployeeID": 80,
+    "Name": "  Sarah Smith  ",
+    "Department": "Support",
+    "Position": "Manager",
+    "Salary": 104271.11,
+    "JoinDate": "10-12-2018"
+  },
+  {
+    "EmployeeID": 81,
+    "Name": "  Noah Ortiz  ",
+    "Department": "Marketing",
+    "Position": "Manager",
+    "Salary": 87529.75,
+    "JoinDate": "29/08/2023"
+  },
+  {
+    "EmployeeID": 82,
+    "Name": "  Kimberly Hobbs  ",
+    "Department": "Sales",
+    "Position": "Analyst",
+    "Salary": null,
+    "JoinDate": null
+  },
+  {
+    "EmployeeID": 83,
+    "Name": "Shannon Turner",
+    "Department": "Sales",
+    "Position": "Manager",
+    "Salary": 53347.97,
+    "JoinDate": "21-Oct-2022"
+  },
+  {
+    "EmployeeID": 84,
+    "Name": "Rodney Shea II",
+    "Department": "Support",
+    "Position": "Engineer",
+    "Salary": 74554.31,
+    "JoinDate": "02/11/2022"
+  },
+  {
+    "EmployeeID": 85,
+    "Name": "  Nicole Brown  ",
+    "Department": "HR",
+    "Position": "Executive",
+    "Salary": "$87,952.84",
+    "JoinDate": null
+  },
+  {
+    "EmployeeID": 86,
+    "Name": "Lisa Faulkner",
+    "Department": "Sales",
+    "Position": "Engineer",
+    "Salary": 54084.62,
+    "JoinDate": "03/06/2021"
+  },
+  {
+    "EmployeeID": 87,
+    "Name": "Ryan Kane",
+    "Department": "HR",
+    "Position": "Manager",
+    "Salary": "$61,156.16",
+    "JoinDate": null
+  },
+  {
+    "EmployeeID": 88,
+    "Name": "  Melanie Barker",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": 82247.05,
+    "JoinDate": "2021-08-21"
+  },
+  {
+    "EmployeeID": 89,
+    "Name": "  Gary Smith",
+    "Department": "HR",
+    "Position": "Analyst",
+    "Salary": 47197.83,
+    "JoinDate": "20/10/2023"
+  },
+  {
+    "EmployeeID": 90,
+    "Name": "Sandra Lynch",
+    "Department": "Sales",
+    "Position": "Engineer",
+    "Salary": 59444.55,
+    "JoinDate": "04-28-2024"
+  },
+  {
+    "EmployeeID": 91,
+    "Name": "Michelle Melton",
+    "Department": "Support",
+    "Position": "Analyst",
+    "Salary": 76369.6,
+    "JoinDate": "06-May-2019"
+  },
+  {
+    "EmployeeID": 92,
+    "Name": "Brandi Lawrence",
+    "Department": null,
+    "Position": "Specialist",
+    "Salary": 40567.57,
+    "JoinDate": "03-May-2024"
+  },
+  {
+    "EmployeeID": 93,
+    "Name": "Karen Harris",
+    "Department": "Finance",
+    "Position": "Specialist",
+    "Salary": 65311.46,
+    "JoinDate": "30/08/2016"
+  },
+  {
+    "EmployeeID": 94,
+    "Name": "Tamara Alvarez",
+    "Department": "HR",
+    "Position": "Specialist",
+    "Salary": 45213.05,
+    "JoinDate": "March 25, 2025"
+  },
+  {
+    "EmployeeID": 95,
+    "Name": "Charles Novak",
+    "Department": "Support",
+    "Position": "Analyst",
+    "Salary": 81441.19,
+    "JoinDate": "2017-08-24"
+  },
+  {
+    "EmployeeID": 96,
+    "Name": "Megan Wade",
+    "Department": "Marketing",
+    "Position": "Analyst",
+    "Salary": "$70,571.38",
+    "JoinDate": "August 22, 2021"
+  },
+  {
+    "EmployeeID": 97,
+    "Name": "  Patrick Parker  ",
+    "Department": "Sales",
+    "Position": "Analyst",
+    "Salary": 89921.01,
+    "JoinDate": "February 19, 2016"
+  },
+  {
+    "EmployeeID": 98,
+    "Name": "  Gerald Lee  ",
+    "Department": "Sales",
+    "Position": "Specialist",
+    "Salary": "$47,432.85",
+    "JoinDate": "03-Aug-2022"
+  },
+  {
+    "EmployeeID": 99,
+    "Name": "Michelle Garrett  ",
+    "Department": "Finance",
+    "Position": "Engineer",
+    "Salary": 60069.89,
+    "JoinDate": "25-Aug-2019"
+  },
+  {
+    "EmployeeID": 100,
+    "Name": "Dawn Lawrence",
+    "Department": null,
+    "Position": "Engineer",
+    "Salary": "$75,488.70",
+    "JoinDate": "06-Jan-2017"
+  }
+]
